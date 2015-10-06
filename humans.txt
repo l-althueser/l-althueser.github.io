@@ -1,0 +1,16 @@
+U2VyZ2VqIE3DvGxsZXI
+
+
+/* PERSON */
+Name:     Sergej Müller
+Location: Hamburg, Germany
+Website:  https://sergejmueller.github.io
+Twitter:  https://twitter.com/translate3d
+Google+:  https://plus.google.com/+SergejMüller
+GitHub:   https://github.com/sergejmueller
+
+
+/* SITE */
+Hoster: GitHub
+Technologies: HTML5, CSS3, JS, SVG, SVN, SPDY
+Software: Sublime Text, GitHub for Mac
